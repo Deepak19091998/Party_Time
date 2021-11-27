@@ -16,7 +16,6 @@ const PnrNumberStyle = makeStyles((theme)=>
     },
     rightGrid : {
       height:'100vh',
-      border:"10px solid",
       display:'grid',
       placeItems:'center'
     },
